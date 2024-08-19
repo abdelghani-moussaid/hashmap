@@ -18,4 +18,4 @@ A custom `HashMap` implementation in JavaScript using separate chaining with lin
   - `values()`
   - `entries()`
 
-- Feel free to customize it to fit your needs!
+Feel free to customize it to fit your needs!
